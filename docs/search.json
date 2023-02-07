@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "zool710-intro-ke-cao",
+    "section": "",
+    "text": "My name is Ke and I’m a senior marine biology undergraduate student at UH Manoa.\n\n\n\nI took an intro level Python class and a biostatistic class that covered some R computation.\nI’m currently working on the phylogenetic analysis of a mysterious frog genus Aphantophryne and physiological analysis of Mozambique tilapia gill. Both projects involve data analysis and it would be a great idea to learn R language to support my current and future projects.\n\n\n\n\n\n\nAphantophryne\n\n\n\n\n\n\n\nTilapia\n\n\n\n\n\n\n\n\n\nI have traveled to four continents.\nI can cook nice Chinese food.\nI want to be able to speak several languages in the future.\n\n\n\n\nCheck out this website! Marine Life\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]

@@ -1,0 +1,35 @@
+---
+title: "zool710-intro-ke-cao"
+---
+
+## Welcome to my site!
+
+### About me
+
+My name is Ke and I'm a senior marine biology undergraduate student at UH Manoa. 
+
+### Experience with Data Science and Research Interest
+
+I took an intro level Python class and a biostatistic class that covered some R computation. 
+
+I'm currently working on the phylogenetic analysis of a mysterious frog genus *Aphantophryne* and physiological analysis of Mozambique tilapia gill. Both projects involve data analysis and it would be a great idea to learn R language to support my current and future projects.
+
+::: {layout-ncol=2}
+![Aphantophryne](frog.JPG)
+
+![Tilapia](tilapia.jpg)
+:::
+
+### Fun Facts
+
+1. I have traveled to four continents.
+
+2. I can cook nice Chinese food.
+
+3. I want to be able to speak several languages in the future. 
+
+### Hawaii's Amazing Marine Organisms
+
+Check out this website! [Marine Life](https://www.marinelifephotography.com/default.htm)
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
